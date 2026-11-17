@@ -46,39 +46,39 @@ Skills
 Publications
 ======
 <div class="wordwrap">
-<ul class="fa-ul">
-  <li style="margin-bottom: 1em;">
-    <span style="color: #b30000; font-weight: bold;">*</span>
-    <strong>SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond</strong> (2025)<br />
-    <u>**Junteng Liu**</u>, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.<br />
-    <em>First author.</em> arXiv preprint. Code available on GitHub.
+<ul style="list-style: none; padding-left: 0;">
+  <li style="margin-bottom: 1.2em; padding-left: 1.2em; position: relative;">
+    <span style="position: absolute; left: 0; top: 0; color: #b30000; font-weight: bold;">*</span>
+    <strong>SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond</strong> <em>(arXiv, 2025)</em><br />
+    <u><strong>Junteng Liu</strong></u>, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.<br />
+    <em>First author.</em> Code available on GitHub.
   </li>
-  <li style="margin-bottom: 1em;">
-    <span style="color: #b30000; font-weight: bold;">*</span>
-    <strong>On the Perception Bottleneck of VLMs for Chart Understanding</strong> (2025)<br />
-    <u>**Junteng Liu**</u>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.<br />
-    <em>First author.</em> arXiv preprint. Code available on GitHub: Vision4Chart.
+  <li style="margin-bottom: 1.2em; padding-left: 1.2em; position: relative;">
+    <span style="position: absolute; left: 0; top: 0; color: #b30000; font-weight: bold;">*</span>
+    <strong>On the Perception Bottleneck of VLMs for Chart Understanding</strong> <em>(arXiv, 2025)</em><br />
+    <u><strong>Junteng Liu</strong></u>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.<br />
+    <em>First author.</em> Code available on GitHub: Vision4Chart.
   </li>
-  <li style="margin-bottom: 1em;">
-    <span style="color: #b30000; font-weight: bold;">*</span>
-    <strong>On the Universal Truthfulness Hyperplane Inside LLMs</strong> (EMNLP 2024)<br />
-    <u>**Junteng Liu**</u>, Shiqi Chen, Yu Cheng, Junxian He.<br />
-    <em>First author.</em> EMNLP 2024. Code available on GitHub: Universal_Truthfulness_Hyperplane.
+  <li style="margin-bottom: 1.2em; padding-left: 1.2em; position: relative;">
+    <span style="position: absolute; left: 0; top: 0; color: #b30000; font-weight: bold;">*</span>
+    <strong>On the Universal Truthfulness Hyperplane Inside LLMs</strong> <em>(EMNLP 2024)</em><br />
+    <u><strong>Junteng Liu</strong></u>, Shiqi Chen, Yu Cheng, Junxian He.<br />
+    <em>First author.</em> Code available on GitHub: Universal_Truthfulness_Hyperplane.
   </li>
-  <li style="margin-bottom: 1em;">
-    <strong>In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation</strong> (ICML 2024)<br />
-    Shiqi Chen, Miao Xiong, <u>**Junteng Liu**</u>, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.<br />
-    Co-author. ICML 2024.
+  <li style="margin-bottom: 1.2em; padding-left: 1.2em;">
+    <strong>In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation</strong> <em>(ICML 2024)</em><br />
+    Shiqi Chen, Miao Xiong, <u><strong>Junteng Liu</strong></u>, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.<br />
+    Co-author.
   </li>
-  <li style="margin-bottom: 1em;">
-    <strong>C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models</strong> (NeurIPS 2023)<br />
-    Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, <u>**Junteng Liu**</u>, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.<br />
-    Co-author. NeurIPS 2023.
+  <li style="margin-bottom: 1.2em; padding-left: 1.2em;">
+    <strong>C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models</strong> <em>(NeurIPS 2023)</em><br />
+    Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, <u><strong>Junteng Liu</strong></u>, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.<br />
+    Co-author.
   </li>
-  <li style="margin-bottom: 1em;">
-    <strong>Composing Parameter-Efficient Modules with Arithmetic Operations</strong> (NeurIPS 2023)<br />
-    Jinghan Zhang, Shiqi Chen, <u>**Junteng Liu**</u>, Junxian He.<br />
-    Co-author. NeurIPS 2023.
+  <li style="margin-bottom: 1.2em; padding-left: 1.2em;">
+    <strong>Composing Parameter-Efficient Modules with Arithmetic Operations</strong> <em>(NeurIPS 2023)</em><br />
+    Jinghan Zhang, Shiqi Chen, <u><strong>Junteng Liu</strong></u>, Junxian He.<br />
+    Co-author.
   </li>
 </ul>
 <span style="color: #b30000; font-weight: bold;">*</span> denotes first-author papers.
